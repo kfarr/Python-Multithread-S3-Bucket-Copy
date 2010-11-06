@@ -1,0 +1,5 @@
+A simple function to copy an S3 bucket using multiple threads in Python.
+
+Requires the Python boto library.
+
+Started by kieran@vidnetwork.com. Please add your improvements too.
